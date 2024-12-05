@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>生日快乐！</title>
+  <style>
+    body {
+      text-align: center;
+      font-family: 'Arial', sans-serif;
+      background-color: #f5f5f5;
+      padding-top: 20%;
+    }
+    .message {
+      font-size: 36px;
+      color: #ff6f00;
+      font-weight: bold;
+    }
+    .emoji {
+      font-size: 60px;
+    }
+  </style>
+</head>
+<body>
+  <div class="message">
+    <span class="emoji">🎂🎉</span><br>
+    生日快乐！<br>
+    愿你每天都充满欢笑和幸福！<br>
+    <span class="emoji">🎁🎈</span>
+  </div>
+</body>
+</html>
